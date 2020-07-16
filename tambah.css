@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #c9caca;
+}
+
+.box {
+    justify-content: center;
+    background-color: white;
+    width: 350px;
+    height: 530px;
+    padding: 40px;
+    margin-left: 450px;
+    margin-top: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 5OX;
+}
+
+.box button {
+    border-radius: 50px;
+    padding: 10px;
+}
