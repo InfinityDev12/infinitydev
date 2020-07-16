@@ -36,6 +36,7 @@ session_start();
         <label id="icon">
             <i class="fa fa-bars"></i>
         </label>
+        <div></div>
     </nav>
     <?php
     if (isset($_SESSION['valid'])) {
